@@ -5,6 +5,8 @@
 $ cd test/
 $ go test -v -timeout 45m
 ```
+### Test Result
+![Terratest](./test/terraform_test.png)
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
